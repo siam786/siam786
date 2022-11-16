@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ssotware Engineer
+- 👋 Hi, I’m Software Engineer
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning laravel,js
 - 💞️ I’m looking to collaborate on backend
